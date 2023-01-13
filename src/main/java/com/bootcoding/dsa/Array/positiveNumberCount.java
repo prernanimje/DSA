@@ -20,7 +20,7 @@ public class positiveNumberCount {
 
     public static void main(String[] args) {
         int[]num = {-1,1,2,3,-5,4};
-     
+
      int res= maximumCount(num);
         System.out.println(res);
     }
