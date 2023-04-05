@@ -1,4 +1,4 @@
-package com.bootcoding.dsa.Array;
+package com.bootcoding.dsa.EveningArray;
 
 public class CopyArray {
 
