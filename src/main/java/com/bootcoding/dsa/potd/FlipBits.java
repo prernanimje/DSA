@@ -1,4 +1,4 @@
-package com.bootcoding.dsa.geeksforgeeks.array;
+package com.bootcoding.dsa.potd;
 
 import java.util.Collections;
 import java.util.List;
